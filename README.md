@@ -1,6 +1,6 @@
 # Arduino Compatible Board
 
-Arduino Compatible Board
+Arduino Compatible Board for professional use
 
 The circuit designed by Arduino.
 Some changes applied by Ercan Ersoy.
