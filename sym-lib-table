@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name UNO-TH_Rev3e-eagle-import)(type Legacy)(uri ${KIPRJMOD}/UNO-TH_Rev3e-eagle-import.lib)(options "")(descr ""))
+)
