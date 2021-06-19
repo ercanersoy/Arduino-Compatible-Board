@@ -10,3 +10,7 @@ This work is licensed under CC-BY-SA 4.0 License.
 ## 3D Model
 
 ![3D Model](pcb.png)
+
+## Note
+
+Arduino is a trademark of Arduino Company.
