@@ -9,7 +9,8 @@ This work is licensed under CC-BY-SA 4.0 License.
 
 ## 3D Model
 
-![3D Model](pcb.png)
+![3D Model](pcb-front.png)
+![3D Model](pcb-back.png)
 
 ## Note
 
